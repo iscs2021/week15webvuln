@@ -239,19 +239,24 @@ Next, steal all of the credit card numbers from the database.
 
 - **Hint #1**: Sometimes cookies wear different clothes to change their appearances.
 
-I need to convert text to base64
+Start with the handy-dandy sql injection exploit, I need to convert text to `base64`.
 ![attack04-sqlinjectiontobase64.JPG](img/attack04-sqlinjectiontobase64.JPG)
 
-Now I have my base64
-![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
-
-Now I need to transform the base64 just a little bit more
+Now I need to `transform` the base64 just a little bit more.
 ![attack04-sqlinjectioncookievalueexplicit.JPG](img/attack04-sqlinjectioncookievalueexplicit.JPG)
 
-Change the Value column for row user from this
-![attack03-usedebuger.JPG](img/attack03-userdebugger.JPG)
-to this
+Now I have my base64 I can put it to use.
 ![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
+
+
+Change the `Value` column for row `user` from this
+![attack03-usedebuger.JPG](img/attack03-userdebugger.JPG)
+
+to this. I had to double click multiple times.
+![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
+
+then I reloaded the page.
+
 - **Hint #2**: Break your way into the conversation and inject your own ideas.
 
 Please include a screenshot here of all the credit card numbers from the database. 

@@ -246,12 +246,12 @@ Now I have my base64
 ![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
 
 Now I need to transform the base64 just a little bit more
-![attack04-sqlinjectioncookievalueexplicit.JPG](attack04-sqlinjectioncookievalueexplicit.JPG)
+![attack04-sqlinjectioncookievalueexplicit.JPG](img/attack04-sqlinjectioncookievalueexplicit.JPG)
 
 Change the Value column for row user from this
 ![attack03-usedebuger.JPG](img/attack03-userdebugger.JPG)
 to this
-![attack05-base64tocookievalue.JPG](attack05-base64tocookievalue.JPG)
+![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
 - **Hint #2**: Break your way into the conversation and inject your own ideas.
 
 Please include a screenshot here of all the credit card numbers from the database. 

@@ -239,6 +239,13 @@ Next, steal all of the credit card numbers from the database.
 
 - **Hint #1**: Sometimes cookies wear different clothes to change their appearances.
 
+![attack04-sqlinjectiontobase64.JPG](img/attack04-sqlinjectiontobase64.JPG)
+![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
+
+Change the Value column for row user from this
+![attack03-usedebuger.JPG](img/attack03-userdebugger.JPG)
+to this
+![attack05-base64tocookievalue.JPG](attack05-base64tocookievalue.JPG)
 - **Hint #2**: Break your way into the conversation and inject your own ideas.
 
 Please include a screenshot here of all the credit card numbers from the database. 

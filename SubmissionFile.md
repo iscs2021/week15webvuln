@@ -249,13 +249,13 @@ Now I have my base64 I can put it to use.
 ![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
 
 
-Change the `Value` column for row `user` from this
-![attack03-usedebugger.JPG](img/attack03-userdebugger.JPG)
+Change the `Value` column for row `user` from **this**
+![attack03-usedebugger.JPG](img/attack03-usedebugger.JPG)
 
-to this. I had to double click multiple times.
+to **that**. I had to double click multiple times.
 ![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
 
-then I reloaded the page.
+then I `reloaded` the page.
 
 - **Hint #2**: Break your way into the conversation and inject your own ideas.
 

@@ -250,7 +250,7 @@ Now I have my base64 I can put it to use.
 
 
 Change the `Value` column for row `user` from this
-![attack03-usedebuger.JPG](img/attack03-userdebugger.JPG)
+![attack03-usedebugger.JPG](img/attack03-userdebugger.JPG)
 
 to this. I had to double click multiple times.
 ![attack05-base64tocookievalue.JPG](img/attack05-base64tocookievalue.JPG)
